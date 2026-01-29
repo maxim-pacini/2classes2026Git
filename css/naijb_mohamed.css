@@ -1,0 +1,28 @@
+.body-najib {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #111010ee;
+    color: white;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+}
+
+.content {
+    flex: 1;
+}
+
+.image-content {
+    background-image: url("./../img/najib-mohamed.png");
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
